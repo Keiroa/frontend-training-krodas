@@ -1,0 +1,21 @@
+{
+  "name": "frontend-training-krodas",
+  "version": "1.0.0",
+  "description": "KQED Software Engineering Internship Spring 2023 Frontend Development Training",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "yarn node index.js"
+  },
+  "repository": "git+https://github.com/KQED/frontend-training-krodas.git",
+  "author": "Kevin Rodas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KQED/frontend-training-krodas/issues"
+  },
+  "homepage": "https://github.com/KQED/frontend-training-krodas#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "node": "^19.6.1"
+  }
+}

@@ -16,6 +16,6 @@
   "homepage": "https://github.com/KQED/frontend-training-krodas#readme",
   "dependencies": {
     "express": "^4.18.2",
-    "node": "^19.6.1"
+    "node": "^16.19.1"
   }
 }
